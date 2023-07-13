@@ -100,6 +100,8 @@ const HomePage = () => {
 
     return (
         <div>
+            <iframe src="https://yolo.gosolo.io/proposal/MjM5Mzk1MQ==.MjAyMy0wNy0xMlQxNjoxNjozNC45NTha" height="500" width="500" title="test">
+            </iframe>
             {/* hero section */}
 
             <section className="inner-container flex items-center py-8 md:py-36">
