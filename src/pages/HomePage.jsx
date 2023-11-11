@@ -100,16 +100,6 @@ const HomePage = () => {
 
     return (
         <div>
-            <section className="inner-container flex items-center py-8 md:py-36">
-                <h1>Solo Abra cadabra iframe:</h1>
-                <iframe src="https://yolo.gosolo.io/proposal/MjM5Mzk1MQ==.MjAyMy0wNy0xMlQxNjoxNjozNC45NTha" height="500" width="500" title="test">
-                </iframe>
-            </section>
-            <section className="inner-container flex items-center py-8 md:py-36">
-                <h1>IRE iframe test:</h1>
-                <iframe src="https://brokersumo.com/home" height="500" width="500" title="test">
-                </iframe>
-            </section>
             {/* hero section */}
 
             <section className="inner-container flex items-center py-8 md:py-36">
